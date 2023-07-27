@@ -1,0 +1,11 @@
+id: file://<WORKSPACE>/test/test.scala:[130..130) in Input.VirtualFile("file://<WORKSPACE>/test/test.scala", "import chisel3._
+import chisel3.util._
+import chisel3.tester._
+import chisel3.tester.RawTester.test
+import dotvisualizer._
+
+class
+")
+file://<WORKSPACE>/test/test.scala:8: error: expected identifier; obtained eof
+
+^
